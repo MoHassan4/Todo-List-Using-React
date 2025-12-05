@@ -3,7 +3,8 @@
 A modern **Todo List application** built with **React** that includes form validation, editing, filtering, and persistent data using **MockAPI**. It is designed to be simple, responsive, and user-friendly.
 
 ---
-
+![Todo List Demo](src/assets/images/Todo-App(1).gif)
+---
 ## Features
 
 * **Add Todos**: Create new todos with **validation** powered by **react-hook-form** and **Yup**.
